@@ -15,3 +15,7 @@ Este repositorio explica los fundamentos del uso de un módulo Bluetooth en conj
 
 # Avisos varios
 El módulo Bluetooth fue configurado previo a la clase para que la velocidad de la comunicación serial fuese 115200 baudios.
+
+# Esquemático y montaje
+![Montaje](https://i.imgur.com/J8ocvuQ.png)
+![Montaje](https://i.imgur.com/LqwhygX.jpg)
