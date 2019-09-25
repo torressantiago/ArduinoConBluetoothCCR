@@ -19,3 +19,8 @@ El módulo Bluetooth fue configurado previo a la clase para que la velocidad de 
 # Esquemático y montaje
 ![Montaje](https://i.imgur.com/J8ocvuQ.png)
 ![Montaje](https://i.imgur.com/LqwhygX.jpg)
+
+
+# Resultado Final
+El resultado final debe controlar 3 LED mediante la interfaz en Android y a su vez debe encender un LED verde indicando que todo está funcionando bien y encender uno rojo cuando haya un error en la recepción del dato. La interfaz en Android debe utilizar los recursos del celular para conectarse al módulo Bluetooth mediante el protocolo Bluetooth 2.0.
+![Resultado](https://i.imgur.com/QiIm9Jg.jpg)
